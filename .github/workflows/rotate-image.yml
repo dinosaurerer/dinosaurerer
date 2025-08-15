@@ -1,0 +1,31 @@
+name: Rotate Slideshow Image
+
+on:
+  schedule:
+    - cron: "*/1 * * * *"  # 每分钟执行一次
+  workflow_dispatch:       # 手动触发
+
+jobs:
+  rotate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Rotate image
+        run: |
+          files=($(ls image/*))
+          count=${#files[@]}
+          idx=$((RANDOM % count))
+          chosen=${files[$idx]}
+          echo "Chosen file: $chosen"
+
+          # 替换 README.md 中的占位符行
+          sed -i "s|!\[Slideshow\](.*)|![Slideshow](${chosen}) <!--轮播占位符-->|" README.md
+
+      - name: Commit changes
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add README.md
+          git commit -m "Rotate slideshow image"
+          git push
