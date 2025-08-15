@@ -27,7 +27,7 @@
 
 
 <!--IMAGE_START-->
-![Slideshow](image/6666.jpg)
+![Slideshow](image/8253693.jpg) <!--轮播占位符--> <!--轮播占位符--> <!--轮播占位符--> <!--轮播占位符-->
 <!--IMAGE_END-->
 
 
