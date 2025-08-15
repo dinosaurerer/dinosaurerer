@@ -16,7 +16,7 @@
 </div>
 
 <!--IMAGE_START-->
-![Slideshow](images/6666.jpg)
+![Slideshow](image/6666.jpg)
 <!--IMAGE_END-->
 
 ![Visitor Count](https://hits.sh/github.com/dinosaurerer.svg?color=blue)  
