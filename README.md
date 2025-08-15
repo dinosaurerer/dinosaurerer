@@ -16,7 +16,7 @@
 </div>
 
 <!--IMAGE_START-->
-![Slideshow](image/1167318.webp) <!--轮播占位符--> <!--轮播占位符-->
+![Slideshow](image/1169425.jpg) <!--轮播占位符--> <!--轮播占位符--> <!--轮播占位符-->
 <!--IMAGE_END-->
 
 ![Visitor Count](https://hits.sh/github.com/dinosaurerer.svg?color=blue)  
