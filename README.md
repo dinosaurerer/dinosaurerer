@@ -27,8 +27,10 @@
 
 
 <!--IMAGE_START-->
-![Slideshow](image/8253693.jpg) <!--轮播占位符--> <!--轮播占位符--> <!--轮播占位符--> <!--轮播占位符-->
+<div align="center">
+  <img src="image/8253693.jpg" alt="Slideshow" style="width:90%; border-radius: 8%; box-shadow: 0 3px 10px rgba(0,0,0,0.2); display: block; margin: 0 auto;" /> <!--轮播占位符-->
+</div>
 <!--IMAGE_END-->
 
 
-[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Dinosaur🦖🦕🦖.
+[github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=XiHuanShiXinYi🦖🦕🦖....
