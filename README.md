@@ -28,7 +28,7 @@
 
 <!--IMAGE_START-->
 <div align="center">
-  <img src="image/8253693.jpg" alt="Slideshow" style="width:90%; border-radius: 8%; box-shadow: 0 3px 10px rgba(0,0,0,0.2); display: block; margin: 0 auto;" /> <!--轮播占位符-->
+  <img src="image/8253693.jpg" alt="纪念站截图" style="border-radius:30px; max-width:85%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"> <!--轮播占位符-->
 </div>
 <!--IMAGE_END-->
 
