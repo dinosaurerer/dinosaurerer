@@ -5,7 +5,7 @@
 [![DinoBlog](https://img.shields.io/badge/博客-DinoBlog-pink)](https://blog.072416.xyz)
 [![DinoSpace 云盘](https://img.shields.io/badge/云盘-DinoSpace-blue)](https://cloud.072416.xyz)
 [![DinoSpace 图床](https://img.shields.io/badge/图床-ImgBed-87CEEB)](https://imgbed.072416.xyz/)
-[![DinoSpace 图床](https://img.shields.io/badge/图床-ImgBox-4682B4)](https://uppic.dpdns.org/)
+[![DinoSpace 图床](https://img.shields.io/badge/邮箱-DinoMail-4682B4)](https://mail.094694.xyz/)
 
 [![友谊纪念站](https://img.shields.io/badge/友谊纪念站-Moments-purple)](https://zsyxy.dpdns.org/)
 [![订阅管理](https://img.shields.io/badge/订阅管理-Subscription-orange)](https://zhyx.qzz.io/)
@@ -25,9 +25,9 @@
 |--------|--------|---------|---------|
 | [![DinoBlog](https://img.shields.io/badge/blog-DinoBlog-pink?style=for-the-badge)](https://blog.072416.xyz) | [![DinoSpace 云盘](https://img.shields.io/badge/Cloud-DinoSpace-blue?style=for-the-badge)](https://cloud.072416.xyz) | [![DinoSpace 图床](https://img.shields.io/badge/imgbed-ImgBed-87CEEB?style=for-the-badge)](https://imgbed.072416.xyz/) | [![DinoSpace 图床](https://img.shields.io/badge/uppic-ImgBox-4682B4?style=for-the-badge)](https://uppic.dpdns.org/) |
 
-| 🤝 友谊纪念站 | 📦 订阅管理 | 💖 爱好 |
+| 🤝 友谊纪念站 | 📦 订阅管理 | 📧 邮箱服务 |
 |--------------|-----------|--------|
-| [![友谊纪念站](https://img.shields.io/badge/zsyxy-Moments-purple?style=for-the-badge)](https://zsyxy.dpdns.org/) | [![订阅管理](https://img.shields.io/badge/QzzIo-Subscription-orange?style=for-the-badge)](https://zhyx.qzz.io/) | [![爱好](https://img.shields.io/badge/sanrio-Hellokitty-ff69b4?style=for-the-badge)](https://www.sanrio.com/hellokitty) |
+| [![友谊纪念站](https://img.shields.io/badge/zsyxy-Moments-purple?style=for-the-badge)](https://zsyxy.dpdns.org/) | [![订阅管理](https://img.shields.io/badge/QzzIo-Subscription-orange?style=for-the-badge)](https://zhyx.qzz.io/) | [![邮箱服务](https://img.shields.io/badge/Mail-DinoMail-ff69b4?style=for-the-badge)](https://mail.094694.xyz/) |
 
 </p>
 
@@ -41,7 +41,7 @@
 
 <!--IMAGE_START-->
 <div align="center">
-  <img src="image/8253693.jpg" alt="纪念站截图" style="border-radius:30px; max-width:85%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"> <!--轮播占位符-->
+  <img src="image/6666.jpg" alt="纪念站截图" style="border-radius:30px; max-width:85%; box-shadow: 0 4px 12px rgba(0,0,0,0.1);"> <!--轮播占位符-->
 </div>
 <!--IMAGE_END-->
 
